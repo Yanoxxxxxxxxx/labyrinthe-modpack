@@ -1,0 +1,32 @@
+{
+  "minecraft": "26.3",
+  "chargeur": "NeoForge",
+  "mods": [
+    {
+      "fichier": "[26.3] SecurityCraft v1.10.2.1-beta4.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/%5B26.3%5D%20SecurityCraft%20v1.10.2.1-beta4.jar",
+      "sha256": "44cc7a75a4c7ae3cd66f33366da736e5ad51b0e8da3353b6f1335d0b9ade31aa"
+    },
+    {
+      "fichier": "create-adapted-26.3-1.31-public-external-assets.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/create-adapted-26.3-1.31-public-external-assets.jar",
+      "sha256": "4e8684618edeedae5dbfbe5ec8ba05d57c8c251cb34beb69160f53cbd97b4099"
+    },
+    {
+      "fichier": "magic_vibe_decorations-3.0.1-neoforge-26.3.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/magic_vibe_decorations-3.0.1-neoforge-26.3.jar",
+      "sha256": "ee4bc48084cf674cf9cc0c67136588959bbc77f67c9ff072bb89960a1965308e"
+    },
+    {
+      "fichier": "mcw-furniture-3.4.2-mc26.3neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/mcw-furniture-3.4.2-mc26.3neoforge.jar",
+      "sha256": "bce031ec39b9148054f1f0cb457ff1b4a9c1d4920b1d4f0327bc21be81d152e2"
+    },
+    {
+      "fichier": "worldedit-mod-7.4.6.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/worldedit-mod-7.4.6.jar",
+      "sha256": "24f2338ac9d5e7205f15cdb4a118924c5d9cbd48ab0cabf8ba36b07b7d64c22b"
+    }
+  ],
+  "configs": []
+}
