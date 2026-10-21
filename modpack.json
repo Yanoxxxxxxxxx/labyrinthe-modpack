@@ -1,6 +1,7 @@
 {
   "launcher_version": "1.1",
   "launcher_url": "https://github.com/Yanoxxxxxxxxx/labyrinthe-modpack/releases/latest/download/Labyrinthe-Launcher.exe",
+  "launcher_sha256": "LE_HASH_DU_NOUVEL_EXE",
   "minecraft": "26.3",
   "chargeur": "NeoForge",
   "mods": [
