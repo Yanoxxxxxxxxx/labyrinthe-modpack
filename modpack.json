@@ -1,7 +1,6 @@
 {
   "launcher_version": "1.1",
   "launcher_url": "https://github.com/Yanoxxxxxxxxx/labyrinthe-modpack/releases/latest/download/Labyrinthe-Launcher.exe",
-  "launcher_sha256": "LE_HASH_DU_NOUVEL_EXE",
   "minecraft": "26.3",
   "chargeur": "NeoForge",
   "mods": [
@@ -16,6 +15,11 @@
       "sha256": "4e8684618edeedae5dbfbe5ec8ba05d57c8c251cb34beb69160f53cbd97b4099"
     },
     {
+      "fichier": "dreamdisplays-neoforge-26.3-1.10.2.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/dreamdisplays-neoforge-26.3-1.10.2.jar",
+      "sha256": "bd9cf09a26cbeeaa592dbff0d9f015baa09ea2b7e83ba97d16eae2099ba210fc"
+    },
+    {
       "fichier": "magic_vibe_decorations-3.0.1-neoforge-26.3.jar",
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/magic_vibe_decorations-3.0.1-neoforge-26.3.jar",
       "sha256": "ee4bc48084cf674cf9cc0c67136588959bbc77f67c9ff072bb89960a1965308e"
@@ -24,6 +28,11 @@
       "fichier": "mcw-furniture-3.4.2-mc26.3neoforge.jar",
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/mcw-furniture-3.4.2-mc26.3neoforge.jar",
       "sha256": "bce031ec39b9148054f1f0cb457ff1b4a9c1d4920b1d4f0327bc21be81d152e2"
+    },
+    {
+      "fichier": "SkniroFurniture-1.6.2-26.3-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/SkniroFurniture-1.6.2-26.3-NeoForge.jar",
+      "sha256": "a8318a2606c6c01b4469ab83fadd22b827c550ebd7ae03a43b3b989f49bc"
     },
     {
       "fichier": "worldedit-mod-7.4.6.jar",
