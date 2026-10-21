@@ -9,10 +9,10 @@
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/%5B26.3%5D%20SecurityCraft%20v1.10.2.1-beta4.jar",
       "sha256": "44cc7a75a4c7ae3cd66f33366da736e5ad51b0e8da3353b6f1335d0b9ade31aa"
     },
-    {
-      "fichier": "create-adapted-26.3-1.31-public-external-assets.jar",
-      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/create-adapted-26.3-1.31-public-external-assets.jar",
-      "sha256": "4e8684618edeedae5dbfbe5ec8ba05d57c8c251cb34beb69160f53cbd97b4099"
+        {
+      "fichier": "dreamdisplays-neoforge-26.3-1.10.2.jar",
+      "url": "https://github.com/Yanoxxxxxxxxx/labyrinthe-modpack/releases/download/mods/dreamdisplays-neoforge-26.3-1.10.2.jar",
+      "sha256": "bd9cf09a26cbeeaa592dbff0d9f015baa09ea2b7e83ba97d16eae2099ba210fc"
     },
     {
       "fichier": "dreamdisplays-neoforge-26.3-1.10.2.jar",
