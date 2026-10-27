@@ -39,12 +39,12 @@
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/worldedit-mod-7.4.6.jar",
       "sha256": "24f2338ac9d5e7205f15cdb4a118924c5d9cbd48ab0cabf8ba36b07b7d64c22b"
     }
-  ],
-    "configs": [
+   ],
+  "configs": [
     {
       "chemin": "config/create-adapted/external-assets/create-1.21.1-6.0.10.jar",
-      "url": "https://modrinth.com/mod/create/version/6.0.10+mc1.21.1",
+      "url": "https://cdn.modrinth.com/data/.../create-1.21.1-6.0.10.jar",
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
     }
   ]
-  }
+}
