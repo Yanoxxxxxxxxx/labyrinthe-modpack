@@ -43,7 +43,7 @@
   "configs": [
     {
       "chemin": "config/create-adapted/external-assets/create-1.21.1-6.0.10.jar",
-      "url": "https://cdn.modrinth.com/data/.../create-1.21.1-6.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar?mr_download_reason=standalone",
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
     }
   ]
