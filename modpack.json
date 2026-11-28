@@ -69,6 +69,13 @@
       "mode": "combinaison",
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/combinaison.png",
       "sha256": "F1B0F32A5AE680A55214524A9229B22E07B904926E422C36077B997B6F0F7113"
+    },
+     {
+      "id": "combinaison",
+      "nom": "Tenues Blocard 2",
+      "mode": "combinaison_2",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/combinaison_2.png",
+      "sha256": "4FBDFB60FC53EB808892FA0F1C8C391F6971C064D679C111E1C158E87742B16A"
     }
   ]
 }
