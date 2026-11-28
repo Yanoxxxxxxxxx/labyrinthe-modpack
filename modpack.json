@@ -53,7 +53,11 @@
       "fichier": "LuckPerms-NeoForge-5.5.87.jar",
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/LuckPerms-NeoForge-5.5.87.jar",
       "sha256": "870DBEDBA40445180CD05C1377545419FD251D97E164E75B8F53D559551BA530"
-    }
+    },
+    {
+      "fichier": "simplenicknames-26.3-neoforge-0.8.2.jar",
+      "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/simplenicknames-26.3-neoforge-0.8.2.jar"
+      "sha265": "27E0A5A3130D9F553DDE2B5BF758D8A7AE907D198E412A36172F9CA92ABFCA66"
    ],
   "configs": [
     {
