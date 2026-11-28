@@ -45,12 +45,12 @@
       "sha256": "4DD62DDA0A2DAA98B3AA78D5D4D2498ED733D442B2064749E0608B6008738EDF"
     },
     {
-      "fichier": "voicechat-neoforge-2.6.27+26.3.jar"
+      "fichier": "voicechat-neoforge-2.6.27+26.3.jar",
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/voicechat-neoforge-2.6.27+26.3.jar",
       "sha256": "C9E8F94880751C5B7BD187B5A63CEC721C13B0E0E1A783A9442DEEE028F6CD4A"
     },
     {
-      "fichier": "LuckPerms-NeoForge-5.5.87.jar"
+      "fichier": "LuckPerms-NeoForge-5.5.87.jar",
       "url": "https://raw.githubusercontent.com/Yanoxxxxxxxxx/labyrinthe-modpack/main/LuckPerms-NeoForge-5.5.87.jar",
       "sha256": "870DBEDBA40445180CD05C1377545419FD251D97E164E75B8F53D559551BA530"
     }
